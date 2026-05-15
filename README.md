@@ -46,4 +46,9 @@ aurora.py
     Analizes the auroral record in annual_aurorae_nokorean_1500_1650.xlsx by the
     optimized procedure to identify cycle minima. Output is printed and plotted.
 
+aurrecon_data.zip
+
+    Observational data used in the project. Upon unzipping into a folder,
+    README_dat.txt describes the files. Copy or link the needed input file into
+    the main folder containing the code. 
 
